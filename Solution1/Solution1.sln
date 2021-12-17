@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerXML", "..\LerXML\LerXML\LerXML.csproj", "{A46ABEF5-5D01-4FB8-9523-0030A4C1DB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriaXML", "CriaXML\CriaXML.csproj", "{01E74F68-240F-402D-845E-D4E0051173A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46ABEF5-5D01-4FB8-9523-0030A4C1DB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46ABEF5-5D01-4FB8-9523-0030A4C1DB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46ABEF5-5D01-4FB8-9523-0030A4C1DB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46ABEF5-5D01-4FB8-9523-0030A4C1DB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E74F68-240F-402D-845E-D4E0051173A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E74F68-240F-402D-845E-D4E0051173A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E74F68-240F-402D-845E-D4E0051173A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E74F68-240F-402D-845E-D4E0051173A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73FC7B30-0040-4E96-A921-6D4AC36FDDBC}
+	EndGlobalSection
+EndGlobal
